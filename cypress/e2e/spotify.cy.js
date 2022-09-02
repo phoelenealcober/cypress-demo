@@ -2,7 +2,7 @@ describe('Spotify', () => {
 
     const baseUrl = "https://api.spotify.com/"
     const headers = {
-        'Authorization': 'Bearer BQCoXA1RQxnBPA-aeHtX81eWT5eX2Vg1jQtft7eLs6KE5_LZzXY68Arme4h7aGpJitDSTssJ3FMe-dr1ozAE-_ela0SG4EP3fC3OLmUoWeqVLLPianA'
+        'Authorization': 'Bearer BQBK_HWcXLh-w8jcKB7xvTeVmAMCl_mHiIXUU7T-RHS_scPa1UsKoKjd4k3DLGma3Ip1u6VnsrpKmkBw2FoEGb3TFOS81aeznD1Tf5ngjyyuGDp6P5w'
     } // header: bearer + access_token
 
     const artistId = "06HL4z0CvFAxyc27GXpf02" // Artist ID for Taylor Swift
